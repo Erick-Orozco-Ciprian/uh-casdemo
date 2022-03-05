@@ -468,346 +468,248 @@ insert into holiday_type(type_id, holiday_id) values(2,128);
 insert into holiday_type(type_id, holiday_id) values(3,128);
 insert into holiday_type(type_id, holiday_id) values(2,142);
 insert into holiday_type(type_id, holiday_id) values(3,142);
-
 insert into holiday_type(type_id, holiday_id) values(2, 114);
 insert into holiday_type(type_id, holiday_id) values(3, 114);
 insert into holiday_type(type_id, holiday_id) values(2, 127);
 insert into holiday_type(type_id, holiday_id) values(3, 127);
 insert into holiday_type(type_id, holiday_id) values(2, 141);
 insert into holiday_type(type_id, holiday_id) values(3, 141);
-
 insert into holiday_type(type_id, holiday_id) values(3, 110);
 insert into holiday_type(type_id, holiday_id) values(4, 110);
 insert into holiday_type(type_id, holiday_id) values(3, 124);
 insert into holiday_type(type_id, holiday_id) values(4, 124);
 insert into holiday_type(type_id, holiday_id) values(3, 137);
 insert into holiday_type(type_id, holiday_id) values(4, 137);
-
 insert into holiday_type(type_id, holiday_id) values(2, 113);
 insert into holiday_type(type_id, holiday_id) values(3, 113);
 insert into holiday_type(type_id, holiday_id) values(2, 126);
 insert into holiday_type(type_id, holiday_id) values(3, 126);
 insert into holiday_type(type_id, holiday_id) values(2, 140);
 insert into holiday_type(type_id, holiday_id) values(3, 140);
-
 insert into holiday_type(type_id, holiday_id) values(2, 112);
 insert into holiday_type(type_id, holiday_id) values(3, 112);
 insert into holiday_type(type_id, holiday_id) values(2, 139);
 insert into holiday_type(type_id, holiday_id) values(3, 139);
-
 insert into holiday_type(type_id, holiday_id) values(2, 111);
 insert into holiday_type(type_id, holiday_id) values(3, 111);
 insert into holiday_type(type_id, holiday_id) values(2, 125);
 insert into holiday_type(type_id, holiday_id) values(3, 125);
 insert into holiday_type(type_id, holiday_id) values(2, 138);
 insert into holiday_type(type_id, holiday_id) values(3, 138);
-
 insert into holiday_type(type_id, holiday_id) values(2, 109);
 insert into holiday_type(type_id, holiday_id) values(3, 109);
 insert into holiday_type(type_id, holiday_id) values(2, 123);
 insert into holiday_type(type_id, holiday_id) values(3, 123);
 insert into holiday_type(type_id, holiday_id) values(2, 136);
 insert into holiday_type(type_id, holiday_id) values(3, 136);
-
 insert into holiday_type(type_id, holiday_id) values(3, 108);
 insert into holiday_type(type_id, holiday_id) values(4, 108);
 insert into holiday_type(type_id, holiday_id) values(3, 122);
 insert into holiday_type(type_id, holiday_id) values(4, 122);
 insert into holiday_type(type_id, holiday_id) values(3, 135);
 insert into holiday_type(type_id, holiday_id) values(4, 135);
-
 insert into holiday_type(type_id, holiday_id) values(2, 107);
 insert into holiday_type(type_id, holiday_id) values(3, 107);
 insert into holiday_type(type_id, holiday_id) values(2, 121);
 insert into holiday_type(type_id, holiday_id) values(3, 121);
 insert into holiday_type(type_id, holiday_id) values(2, 134);
 insert into holiday_type(type_id, holiday_id) values(3, 134);
-
 insert into holiday_type(type_id, holiday_id) values(3, 77);
 insert into holiday_type(type_id, holiday_id) values(3, 106);
 insert into holiday_type(type_id, holiday_id) values(3, 120);
 insert into holiday_type(type_id, holiday_id) values(3, 133);
-
 insert into holiday_type(type_id, holiday_id) values(3, 105);
 insert into holiday_type(type_id, holiday_id) values(4, 105);
 insert into holiday_type(type_id, holiday_id) values(3, 119);
 insert into holiday_type(type_id, holiday_id) values(4, 119);
 insert into holiday_type(type_id, holiday_id) values(3, 132);
 insert into holiday_type(type_id, holiday_id) values(4, 132);
-
 insert into holiday_type(type_id, holiday_id) values(2, 104);
 insert into holiday_type(type_id, holiday_id) values(3, 104);
 insert into holiday_type(type_id, holiday_id) values(2, 118);
 insert into holiday_type(type_id, holiday_id) values(3, 118);
 insert into holiday_type(type_id, holiday_id) values(2, 131);
 insert into holiday_type(type_id, holiday_id) values(3, 131);
-
 insert into holiday_type(type_id, holiday_id) values(2, 103);
 insert into holiday_type(type_id, holiday_id) values(3, 103);
 insert into holiday_type(type_id, holiday_id) values(2, 117);
 insert into holiday_type(type_id, holiday_id) values(3, 117);
 insert into holiday_type(type_id, holiday_id) values(2, 130);
 insert into holiday_type(type_id, holiday_id) values(3, 130);
-
 insert into holiday_type(type_id, holiday_id) values(2, 102);
 insert into holiday_type(type_id, holiday_id) values(3, 102);
 insert into holiday_type(type_id, holiday_id) values(2, 116);
 insert into holiday_type(type_id, holiday_id) values(3, 116);
 insert into holiday_type(type_id, holiday_id) values(2, 129);
 insert into holiday_type(type_id, holiday_id) values(3, 129);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1230);
 insert into holiday_type(type_id, holiday_id) values(4, 1230);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1229);
 insert into holiday_type(type_id, holiday_id) values(4, 1229);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1228);
 insert into holiday_type(type_id, holiday_id) values(4, 1228);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1227);
 insert into holiday_type(type_id, holiday_id) values(4, 1227);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1226);
 insert into holiday_type(type_id, holiday_id) values(4, 1226);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1225);
 insert into holiday_type(type_id, holiday_id) values(4, 1225);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1224);
 insert into holiday_type(type_id, holiday_id) values(4, 1224);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1223);
 insert into holiday_type(type_id, holiday_id) values(4, 1223);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1222);
 insert into holiday_type(type_id, holiday_id) values(4, 1222);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1221);
 insert into holiday_type(type_id, holiday_id) values(4, 1221);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1220);
 insert into holiday_type(type_id, holiday_id) values(4, 1220);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1219);
 insert into holiday_type(type_id, holiday_id) values(4, 1219);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1218);
 insert into holiday_type(type_id, holiday_id) values(4, 1218);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1217);
 insert into holiday_type(type_id, holiday_id) values(4, 1217);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1216);
 insert into holiday_type(type_id, holiday_id) values(4, 1216);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1215);
 insert into holiday_type(type_id, holiday_id) values(4, 1215);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1214);
 insert into holiday_type(type_id, holiday_id) values(4, 1214);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1213);
 insert into holiday_type(type_id, holiday_id) values(4, 1213);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1212);
 insert into holiday_type(type_id, holiday_id) values(4, 1212);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1211);
 insert into holiday_type(type_id, holiday_id) values(4, 1211);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1210);
 insert into holiday_type(type_id, holiday_id) values(4, 1210);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1209);
 insert into holiday_type(type_id, holiday_id) values(4, 1209);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1208);
 insert into holiday_type(type_id, holiday_id) values(4, 1208);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1207);
 insert into holiday_type(type_id, holiday_id) values(4, 1207);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1206);
 insert into holiday_type(type_id, holiday_id) values(4, 1206);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1205);
 insert into holiday_type(type_id, holiday_id) values(4, 1205);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1204);
 insert into holiday_type(type_id, holiday_id) values(4, 1204);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1068);
 insert into holiday_type(type_id, holiday_id) values(4, 1068);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1067);
 insert into holiday_type(type_id, holiday_id) values(4, 1067);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1066);
 insert into holiday_type(type_id, holiday_id) values(4, 1066);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1065);
 insert into holiday_type(type_id, holiday_id) values(4, 1065);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1064);
 insert into holiday_type(type_id, holiday_id) values(4, 1064);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1063);
 insert into holiday_type(type_id, holiday_id) values(4, 1063);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1062);
 insert into holiday_type(type_id, holiday_id) values(4, 1062);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1061);
 insert into holiday_type(type_id, holiday_id) values(4, 1061);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1060);
 insert into holiday_type(type_id, holiday_id) values(4, 1060);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1059);
 insert into holiday_type(type_id, holiday_id) values(4, 1059);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1058);
 insert into holiday_type(type_id, holiday_id) values(4, 1058);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1057);
 insert into holiday_type(type_id, holiday_id) values(4, 1057);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1056);
 insert into holiday_type(type_id, holiday_id) values(4, 1056);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1055);
 insert into holiday_type(type_id, holiday_id) values(4, 1055);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1054);
 insert into holiday_type(type_id, holiday_id) values(4, 1054);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1053);
 insert into holiday_type(type_id, holiday_id) values(4, 1053);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1052);
 insert into holiday_type(type_id, holiday_id) values(4, 1052);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1051);
 insert into holiday_type(type_id, holiday_id) values(4, 1051);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1050);
 insert into holiday_type(type_id, holiday_id) values(4, 1050);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1049);
 insert into holiday_type(type_id, holiday_id) values(4, 1049);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1048);
 insert into holiday_type(type_id, holiday_id) values(4, 1048);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1047);
 insert into holiday_type(type_id, holiday_id) values(4, 1047);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1046);
 insert into holiday_type(type_id, holiday_id) values(4, 1046);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1045);
 insert into holiday_type(type_id, holiday_id) values(4, 1045);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1044);
 insert into holiday_type(type_id, holiday_id) values(4, 1044);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1043);
 insert into holiday_type(type_id, holiday_id) values(4, 1043);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1042);
 insert into holiday_type(type_id, holiday_id) values(4, 1042);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1041);
 insert into holiday_type(type_id, holiday_id) values(4, 1041);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1040);
 insert into holiday_type(type_id, holiday_id) values(4, 1040);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1039);
 insert into holiday_type(type_id, holiday_id) values(4, 1039);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1038);
 insert into holiday_type(type_id, holiday_id) values(4, 1038);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1037);
 insert into holiday_type(type_id, holiday_id) values(4, 1037);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1036);
 insert into holiday_type(type_id, holiday_id) values(4, 1036);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1035);
 insert into holiday_type(type_id, holiday_id) values(4, 1035);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1034);
 insert into holiday_type(type_id, holiday_id) values(4, 1034);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1033);
 insert into holiday_type(type_id, holiday_id) values(4, 1033);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1032);
 insert into holiday_type(type_id, holiday_id) values(4, 1032);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1031);
 insert into holiday_type(type_id, holiday_id) values(4, 1031);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1030);
 insert into holiday_type(type_id, holiday_id) values(4, 1030);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1029);
 insert into holiday_type(type_id, holiday_id) values(4, 1029);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1028);
 insert into holiday_type(type_id, holiday_id) values(4, 1028);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1027);
 insert into holiday_type(type_id, holiday_id) values(4, 1027);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1026);
 insert into holiday_type(type_id, holiday_id) values(4, 1026);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1025);
 insert into holiday_type(type_id, holiday_id) values(4, 1025);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1024);
 insert into holiday_type(type_id, holiday_id) values(4, 1024);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1023);
 insert into holiday_type(type_id, holiday_id) values(4, 1023);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1022);
 insert into holiday_type(type_id, holiday_id) values(4, 1022);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1021);
 insert into holiday_type(type_id, holiday_id) values(4, 1021);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1020);
 insert into holiday_type(type_id, holiday_id) values(4, 1020);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1019);
 insert into holiday_type(type_id, holiday_id) values(4, 1019);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1018);
 insert into holiday_type(type_id, holiday_id) values(4, 1018);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1017);
 insert into holiday_type(type_id, holiday_id) values(4, 1017);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1016);
 insert into holiday_type(type_id, holiday_id) values(4, 1016);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1015);
 insert into holiday_type(type_id, holiday_id) values(4, 1015);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1014);
 insert into holiday_type(type_id, holiday_id) values(4, 1014);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1013);
 insert into holiday_type(type_id, holiday_id) values(4, 1013);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1012);
 insert into holiday_type(type_id, holiday_id) values(4, 1012);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1011);
 insert into holiday_type(type_id, holiday_id) values(4, 1011);
 insert into holiday_type(type_id, holiday_id) values(3, 1010);
@@ -830,7 +732,6 @@ insert into holiday_type(type_id, holiday_id) values(3, 1002);
 insert into holiday_type(type_id, holiday_id) values(4, 1002);
 insert into holiday_type(type_id, holiday_id) values(3, 1001);
 insert into holiday_type(type_id, holiday_id) values(4, 1001);
-
 insert into holiday_type(type_id, holiday_id) values(3, 1243);
 insert into holiday_type(type_id, holiday_id) values(4, 1243);
 insert into holiday_type(type_id, holiday_id) values(3, 1242);
@@ -862,3 +763,5 @@ insert into role (id, role, short_description, description) values (1,  'USER', 
 insert into role (id, role, short_description, description) values (2,  'FACULTY', 'Faculty',       'Faculty');
 insert into role (id, role, short_description, description) values (3,  'STAFF',   'Staff',         'Staff');
 insert into role (id, role, short_description, description) values (99, 'ADMIN',   'Administrator', 'Administrator');
+
+insert into authorization(uhuuid, 
