@@ -764,4 +764,6 @@ insert into role (id, role, short_description, description) values (2,  'FACULTY
 insert into role (id, role, short_description, description) values (3,  'STAFF',   'Staff',         'Staff');
 insert into role (id, role, short_description, description) values (99, 'ADMIN',   'Administrator', 'Administrator');
 
-insert into authorization(uhuuid, 
+insert into authorization(id, uhuuid, role_id) values (1, '11111111', 1);
+insert into authorization(id, uhuuid, role_id) values (4, '11111111', 99); 
+ 
