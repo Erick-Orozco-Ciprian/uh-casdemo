@@ -23,3 +23,9 @@ jobs:
         java-version: ${{ matrix.java }}
     - name: Test code
       run: mvn -B -q test -D'logging.level.edu.hawaii.its.casdemo=OFF' -D'logging.level.org.springframework=ERROR' -D'spring.main.banner-mode=off'
+    - name: Test Maven
+      run: mvn test
+    - name: Test Jasmine
+      run: mvn jasmine:bdd
+    - name: Open jasmine website
+      run: xdg-open http://localhost:8234/
